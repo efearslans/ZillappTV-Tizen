@@ -35,10 +35,16 @@ semplicemente una playlist personalizzata .
 <img src = "http://159.89.106.214/zillapp/skin/4.png" > 
 
 
+Ricerca rapida dei canali .
+
 <img src = "http://159.89.106.214/zillapp/skin/5.png" > 
 
+Controllo diretto canale da telecomando . 
 
 <img src = "http://159.89.106.214/zillapp/skin/6.png" > 
+
+
+Unico player con remote control via web .
 
 
 
