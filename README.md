@@ -47,4 +47,17 @@ Controllo diretto canale da telecomando .
 Unico player con remote control via web .
 
 
+----------------------------------------------------- INSERIMENTO NUOVO DEVICE ------------------------------------------------------
+
+
+Attraverso il sito primario e' possibile inserire il mac del proprio device (TV) ed inserire la propria playlist per poter iniziare a utlizzare Zillap .
+
+
+Inserisci il mac address del tuo device : 
+
+<img src = "http://159.89.106.214/zillapp/skin/8.png" > 
+
+Inserisci la playlist associandola al device : 
+
+<img src = "http://159.89.106.214/zillapp/skin/9.png" > 
 
