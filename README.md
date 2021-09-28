@@ -20,7 +20,7 @@ Lista canali :
 Resize screen Ads :
 <img src = "http://159.89.106.214/zillapp/skin/3.jpeg" > 
 
-Questa app non cintiene Playlist e' stata testata con una playlist del servizio " PRIVATE TV " . 
+Questa app non contiene Playlist e' stata testata con una playlist del servizio " PRIVATE TV " . 
 
 
 
@@ -31,5 +31,14 @@ APPLICAZIONE WEB REMOTE CONTROL
 Ti permette di controllare la tua tv tizen direttamente da qualsiasi device munito di browser . 
 Permette la ricerca rapida dei contenuti tramite cell, di gestire le funzioni play , payse , mute , volume , di creati
 semplicemente una playlist personalizzata . 
+
+<img src = "http://159.89.106.214/zillapp/skin/4.png" > 
+
+
+<img src = "http://159.89.106.214/zillapp/skin/5.png" > 
+
+
+<img src = "http://159.89.106.214/zillapp/skin/6.png" > 
+
 
 
